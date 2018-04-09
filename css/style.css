@@ -1,0 +1,25 @@
+body {
+	background-image: url("../img/curls.png");
+	background-repeat: repeat;
+	color: #bbb;
+	font-family: sans-serif;
+	font-size: 10pt;
+	line-height: 10pt;
+	margin: 30px;
+	padding: 0;
+}
+progress {
+	display: block;
+	width: 100%;
+	box-shadow: 1px 1px 1px #ccc;
+}
+.text {
+	display: block;
+	width: 100%;
+	text-align: right;
+	margin-bottom: 2pt;
+}
+.warning {
+	background: #ff0;
+	color: #000;
+}
